@@ -19,8 +19,8 @@ Este é um projeto de uma calculadora simples feita em C# que pode realizar oper
 1. **Clone o Repositório:**
 
     ```bash
-    git clone https://github.com/seu-usuario/calculadora-simples-csharp.git
-    cd calculadora-simples-csharp
+    git clone https://github.com/niiandreatti/Calculadora-C_csharp.git
+    cd Calculadora-C_csharp
     ```
 
 2. **Abra o Projeto no Visual Studio:**
