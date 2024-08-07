@@ -44,7 +44,7 @@ public class HelloWorld
                         Console.WriteLine("A multiplicação deu: " + resultado);
                         break;
                     case 4:
-                        if (num2 != 0)  // Corrigido para verificar a divisão por zero
+                        if (num2 != 0)  
                         {
                             resultado = num1 / num2;
                             Console.WriteLine("A divisão deu: " + resultado);
@@ -55,7 +55,7 @@ public class HelloWorld
                         }
                         break;
                     default:
-                        Console.WriteLine("Opção inválida.");  // Corrigido a codificação da string
+                        Console.WriteLine("Opção inválida."); 
                         break;
                 }
                 Console.WriteLine();
